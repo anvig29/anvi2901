@@ -6,8 +6,7 @@
 ### <div align="center">Hi, I'm Anvi Gautam a curious learner.</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+
 
 - 🌱 I’m currently learning Android Application development and fundamental data structures.  
   
