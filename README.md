@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning Android Application development and fundamental data structures.  
+- 🌱 I’m currently learning Web development and fundamental data structures.  
   
 
 - 💯unlearn-->relearn--->learn-->practise-->grow.  
